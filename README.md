@@ -38,8 +38,8 @@ Git | GitHub | VS Code | Render | Vercel | Netlify | Postman
 ---
 
 ### 🌍 Connect With Me
-- 📫 Reach me at: **sonusharma.dev@gmail.com**  
-- 💼 LinkedIn: [Sonu Sharma](https://www.linkedin.com/in/sonusharma)  
+- 📫 Reach me at: **sonusharma30.09.2004@gmail.com**  
+- 💼 LinkedIn: [Sonu Sharma](https://www.linkedin.com/in/sonu-sharma9917)  
 
 - 🌐 Portfolio: [sonusharma.dev](https://sonuportfolio-orpin.vercel.app/)  
 
